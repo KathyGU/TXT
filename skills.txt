@@ -1,0 +1,14 @@
+Skills_and_Tools:
+Skills:
+ - basic knowledge about software testing;
+ - SQL skills;
+ - analytical skills;
+ - coding skills;
+ - problem-solving skills.
+Tools:
+ - Jira;
+ - Test management tools;
+ - Postman;
+ - Charles;
+ - Fiddler;
+ - Jmeter. 
